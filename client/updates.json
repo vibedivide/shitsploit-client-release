@@ -1,7 +1,7 @@
 {
-	"major": "0.9.9",
-	"patch": "0.9.9",
 	"latest": {
+		"major": "0.9.9",
+		"patch": "0.9.9",
 		"url": "https://github.com/vibedivide/shitsploit-client-release/releases/",
 		"working": true,
 		"installers": {
