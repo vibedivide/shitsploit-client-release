@@ -6,8 +6,8 @@
 		"working": true,
 		"installers": {
 			"Windows_NT": "https://github.com/vibedivide/shitsploit-client-release/releases/download/0.9.7/Shitsploit.Client.Setup.0.9.7.exe",
-			"Darwin": "none",
-			"Linux": "https://github.com/vibedivide/shitsploit-client-release/releases/download/0.9.7/io.shitsploit.desktop_0.9.7_amd64.deb"
+			"Linux": "https://github.com/vibedivide/shitsploit-client-release/releases/download/0.9.7/io.shitsploit.desktop_0.9.7_amd64.deb",
+			"Darwin": "none"
 		}
 	}
 }
