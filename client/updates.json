@@ -1,12 +1,12 @@
 {
 	"latest": {
-		"major": "1.0.3",
-		"patch": "1.0.3",
+		"major": "1.0.4",
+		"patch": "1.0.4",
 		"url": "https://github.com/vibedivide/shitsploit-client-release/releases/",
 		"working": true,
 		"installers": {
-			"Windows_NT": "https://github.com/vibedivide/shitsploit-client-release/releases/download/1.0.0/Shitsploit.Client.Setup.1.0.0.exe",
-			"Linux": "https://github.com/vibedivide/shitsploit-client-release/releases/download/1.0.0/io.shitsploit.desktop_1.0.0_amd64.deb",
+			"Windows_NT": "https://github.com/vibedivide/shitsploit-client-release/releases/download/1.0.0/Shitsploit.Client.Setup.1.0.4.exe",
+			"Linux": "https://github.com/vibedivide/shitsploit-client-release/releases/download/1.0.0/io.shitsploit.desktop_1.0.4_amd64.deb",
 			"Darwin": "none"
 		}
 	}
